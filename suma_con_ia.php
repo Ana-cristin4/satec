@@ -73,11 +73,9 @@
 <body>
 
 <?php
-/* he aprendido que es mas eficiente usar gap en el style para poner un margen a todos los contenidos que hacerlo uno a uno
-ademas, que el operador ternario hace el codigo mas corto, que queda mas claro guardar la suma en una variable que hacerla 
-en el echo, ademas del uso del display flex y flex warp que van de la mano y hace que no se salgan las cosas de la pantalla
-y que queda mejor con un hover que agrande el estilo, tambien el uso de class para las cosas que se van a usar mas de una vez
-y el id que es unico, por ultimo ha cambiado el aspecto estetico para que canse menos a la vista */
+/* he aprendido que es mas eficiente usar la ia para complementar el desarrollo
+de una web que para que lo haga todo, ademas si le das solo una tarea como el
+estilo por ejemplo es mas eficiente */
 for ($i = 0; $i <= 10; $i++) {
 
     echo '<div class="tabla">';
